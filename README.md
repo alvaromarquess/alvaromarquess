@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Álvaro
 
 ## 🚀 About Me
-I'm a passionate Information Systems Engineer
 
 - 🎓 Information Systems Engineer
 - 📫 Reach me at: alvaro.marquees6@gmail.com
