@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Álvaro
 
-<!--
-**alvaromarquess/alvaromarquess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate Information Systems Engineer
 
-Here are some ideas to get you started:
+- 🎓 Information Systems Engineer
+- 📫 Reach me at: alvaro.marquees6@gmail.com
+- 📍 Madrid, Spain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/marques-alvaro/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+- **Main Languages:** JavaScript, Python, Java.
+- **Frontend:** HTML, CSS.
+- **Backend:** Django.
+- **Databases:** PostgreSQL,MySQL.
+- **Tools:** Git, GitHub, VS Code
