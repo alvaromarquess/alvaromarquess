@@ -18,8 +18,8 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Main Languages:** JavaScript, Python, Java.
+- **Main Languages:** JavaScript, Python, Java, R.
 - **Frontend:** HTML, CSS.
 - **Backend:** Django.
-- **Databases:** PostgreSQL,MySQL.
-- **Tools:** Git, GitHub, VS Code
+- **Databases:** PostgreSQL, MySQL.
+- **Tools:** Git, GitHub, DevOps, VS Code, Power BI...
